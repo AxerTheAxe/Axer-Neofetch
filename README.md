@@ -1,4 +1,4 @@
-# Axer-Neofetch
+## Axer-Neofetch
 
 The neofetch config files that I use on my linux systems.
 
