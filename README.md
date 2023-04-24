@@ -10,7 +10,7 @@ In a terminal emulator, `sudo apt install neofetch`
 ### Fedora
 In a terminal emulator, `sudo dnf install neofetch`
 
-## Config Installation
+# Config Installation
 1. Clone this repository or extract an archive from the [releases.](https://github.com/AxerTheAxe/Axer-Neofetch/releases)
 2. Open the cloned or extracted folder in a terminal emulator of your choice, then make the `install.sh` script executable with `chmod +x install.sh`
 3. Run the `install.sh` script from the terminal with `./install.sh`
