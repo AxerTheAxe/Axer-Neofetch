@@ -16,7 +16,7 @@ In a terminal, run: `sudo dnf install neofetch`
 # Config Installation
 1. Clone this repository with `git clone https://github.com/AxerTheAxe/Axer-Neofetch` in a terminal or extract an archive from the [releases.](https://github.com/AxerTheAxe/Axer-Neofetch/releases)
 2. Open the cloned or extracted folder in a terminal, then make the `install.sh` script executable with `chmod +x install.sh`
-3. Run the `install.sh` script from the terminal with `./install.sh` This will rin the file and give you a input prompt.
+3. Run the `install.sh` script from the terminal with `./install.sh`. This will rin the file and give you a input prompt.
 4. Enter the name of your distobution in the prompt, e.g. arch, debian, or fedora. (The input is **NOT** case sensitive.)
 5. Run `neofetch` from the terminal to ensure that everything is working.
 
