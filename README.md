@@ -1,14 +1,14 @@
-#Axer-Neofetch
+# Axer-Neofetch
 
 The neofetch config files that I use on my linux systems.
 
-#Installation
+# Installation
 0. Ensure that neofetch is installed.
-#Arch
+# Arch
 In a terminal emulator, `sudo pacman -S neofetch`
-#Debian
+# Debian
 In a terminal emulator, `sudo apt install neofetch`
-#Fedora
+# Fedora
 In a terminal emulator, `sudo dnf install neofetch`
 
 #Config Installation
@@ -18,13 +18,13 @@ In a terminal emulator, `sudo dnf install neofetch`
 4. Enter the name of your distobution, e.g. arch, debian, or fedora. (Input is **NOT** case sensitive.)
 5. Run `neofetch` from the terminal to ensure that everything is working.
 
-#Extra
+# Extra
 
 Add neofetch to your shell RC.
 
-#Bash
+# Bash
 1. Open `$HOME/.bashrc` in a text editor.
 2. Write `neofetch` at the bottom of the file.
-#Zsh
+# Zsh
 1. Open `$HOME/.zshrc` in a text editor.
 2. Write `neofetch` at the bottom of the file.
