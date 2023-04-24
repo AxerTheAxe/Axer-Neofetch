@@ -7,15 +7,15 @@ Contains neofetch config files for **Arch**, **Debian**, and **Fedora**.
 # Neofetch Installation
 (From a non root user with sudo permissions.)
 ### Arch
-In a terminal emulator, `sudo pacman -S neofetch`
+In a terminal, run: `sudo pacman -S neofetch`
 ### Debian
-In a terminal emulator, `sudo apt install neofetch`
+In a terminal, run: `sudo apt install neofetch`
 ### Fedora
-In a terminal emulator, `sudo dnf install neofetch`
+In a terminal, run: `sudo dnf install neofetch`
 
 # Config Installation
 1. Clone this repository with `git clone https://github.com/AxerTheAxe/Axer-Neofetch` in a terminal or extract an archive from the [releases.](https://github.com/AxerTheAxe/Axer-Neofetch/releases)
-2. Open the cloned or extracted folder in a terminal emulator of your choice, then make the `install.sh` script executable with `chmod +x install.sh`
+2. Open the cloned or extracted folder in a terminal, then make the `install.sh` script executable with `chmod +x install.sh`
 3. Run the `install.sh` script from the terminal with `./install.sh`
 4. Enter the name of your distobution, e.g. arch, debian, or fedora. (Input is **NOT** case sensitive.)
 5. Run `neofetch` from the terminal to ensure that everything is working.
