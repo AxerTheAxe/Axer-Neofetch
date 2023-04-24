@@ -4,6 +4,8 @@ The neofetch config files that I use on my linux systems.
 
 Contains neofetch config files for **Arch**, **Debian**, and **Fedora**.
 
+Images if the configurations can be found [here.](https://imgur.com/gallery/GiqpgAi)
+
 # Neofetch Installation
 (From a non root user with sudo permissions.)
 ### Arch
