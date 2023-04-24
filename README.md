@@ -18,7 +18,7 @@ In a terminal, run: `sudo dnf install neofetch`
 2. Open the cloned or extracted folder in a terminal, then make the `install.sh` script executable with `chmod +x install.sh`
 3. Run the `install.sh` script from the terminal with `./install.sh` 
 - This will run the file and give you an input prompt.
-5. Enter the name of your distobution in the prompt, e.g. arch, debian, or fedora. (The input is **NOT** case sensitive.)
+5. Enter the name of your linux distobution in the prompt, e.g. arch, debian, or fedora. (The input is **NOT** case sensitive.)
 6. Run `neofetch` from the terminal to ensure that everything is working.
 
 # Extra
