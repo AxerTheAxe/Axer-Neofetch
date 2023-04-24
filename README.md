@@ -2,8 +2,7 @@
 
 The neofetch config files that I use on my linux systems.
 
-## Installation
-0. Ensure that neofetch is installed.
+## Neofetch Installation
 ### Arch
 In a terminal emulator, `sudo pacman -S neofetch`
 ### Debian
