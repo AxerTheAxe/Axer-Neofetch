@@ -2,7 +2,7 @@
 
 ## The neofetch config files that I use on my linux systems.
 
-## Neofetch Installation
+# Neofetch Installation
 ### Arch
 In a terminal emulator, `sudo pacman -S neofetch`
 ### Debian
@@ -19,7 +19,7 @@ In a terminal emulator, `sudo dnf install neofetch`
 
 # Extra
 
-## Add neofetch to your shell RC.
+### Add neofetch to your shell RC.
 
 ### Bash
 1. Open `$HOME/.bashrc` in a text editor.
