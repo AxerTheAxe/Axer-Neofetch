@@ -2,6 +2,8 @@
 
 The neofetch config files that I use on my linux systems.
 
+Contains neofetch config files for **Arch**, **Debian**, and **Fedora**.
+
 # Neofetch Installation
 ### Arch
 In a terminal emulator, `sudo pacman -S neofetch`
