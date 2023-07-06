@@ -7,7 +7,7 @@ Contains neofetch config files for **Arch**, **Debian**, and **Fedora**.
 Images of the configurations can be found [here.](https://imgur.com/a/GiqpgAi)
 
 # Neofetch Installation
-(From a non root user with sudo permissions.)
+(Example from a non root user with sudo permissions.)
 ### Arch
 In a terminal, run: `sudo pacman -S neofetch`
 ### Debian
